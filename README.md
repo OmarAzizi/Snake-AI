@@ -9,7 +9,7 @@ This is a sped-up version for the agent playing the game, where the score in gre
 
 ### Clone and Run
 ```bash
-git clone https://github.com/OmarAzizi/Snake-AI.git
+git clone https://github.com/OmarAzizi/Snake-AI.git && cd Snake-AI
 ```
 
 To build the and run the project
