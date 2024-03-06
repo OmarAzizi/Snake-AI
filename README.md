@@ -7,4 +7,12 @@ This AI plays the snake game I made earlier. The learning technique I used is [R
 This is a sped-up version for the agent playing the game, where the score in green is the current one, and the score in yellow is the highest achieved.
 
 
+### Clone and Run
+```bash
+git clone https://github.com/OmarAzizi/Snake-AI.git
+```
 
+To build the and run the project
+```bash
+make && ./snake
+```
